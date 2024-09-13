@@ -3,7 +3,7 @@ package dci.j24e1.group1;
 import java.sql.*;
 import java.util.Random;
 //Created using ChatGPT
-public class Main {
+public class RandomNumberGeneratorGPT {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/random_numbers_db";
     private static final String USER = "root"; // change if necessary
     private static final String PASSWORD = "dudeWTF?"; // change if necessary

@@ -3,7 +3,7 @@ package dci.j24e1.group1;
 import java.sql.*;
 import java.util.Random;
 //Created using Gemini
-public class RandomNumberGenerator {
+public class RandomNumberGeneratorGemini {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/random_numbers_db";
     private static final String USER = "root"; // change if necessary
